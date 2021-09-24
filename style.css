@@ -228,7 +228,7 @@ body{
     overflow: hidden;
   }
   .step {
-    width: 80vw;
+    width: 100vw;
     /* margin-left: 10vw; */
   }
   .step img{
