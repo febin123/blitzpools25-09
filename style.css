@@ -643,6 +643,9 @@ list-style: none;
   width: 5vw;
   margin-left: 3vw;
 }
+.m2 p{
+ margin-top: -23vw;
+}
 .address{
   color: white;
   text-align: center;
