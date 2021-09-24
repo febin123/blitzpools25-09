@@ -229,6 +229,7 @@ body{
   }
   .step img{
     margin-left: 5vw;
+      overflow-y: hidden;
   }
   .step h1{
     font-size: 28px;
