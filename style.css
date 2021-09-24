@@ -608,16 +608,19 @@ color: white;
 margin-left: 40vw;
 padding-bottom: 1vw;
 list-style: none;
+font-size: 18px;
 
 }
 .data2 ol{
-  margin-top: -41vw;
+  margin-top: 1vw;
 }
 .data2 li{
+  font-size: 18px;
 color: white;
 margin-left: 60vw;
 padding-bottom: 1vw;
 list-style: none;
+/* margin-top: 1.5vw; */
 
 }
 .member p{
