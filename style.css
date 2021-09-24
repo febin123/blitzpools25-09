@@ -224,6 +224,9 @@ body{
     text-align: center;
     margin-right: 12vw;
   }
+     .step{
+    overflow: hidden;
+  }
   .step {
     width: 80vw;
     /* margin-left: 10vw; */
